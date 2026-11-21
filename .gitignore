@@ -1,0 +1,23 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+build/
+dist/
+*.elf
+*.bin
+*.hex
+*.map
+*.uf2
+*.log
+.DS_Store
+.vscode/
+.idea/
+# Capturas crudas sensibles o de gran tamaño: revisar antes de agregar
+private/
+secrets/
+credentials*
+*.pem
+*.key
